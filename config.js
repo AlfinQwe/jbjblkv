@@ -1,5 +1,5 @@
 /**
-   * Create By Dika Ardnt.
+   * Create By Mukhammad Alfin Hidayatulloh
 */
 
 const fs = require('fs')
@@ -16,11 +16,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['62895604670507']
-global.ownernomer = "62895604670507"
-global.premium = ['62895604670507','6281328144300']
-global.packname = 'Zenss'
-global.author = 'Cuyy'
+global.owner = ['6289699565795']
+global.ownernomer = "6289699565795"
+global.premium = ['6289699565795','62895405996879']
+global.packname = 'Alpin'
+global.author = 'AlfinQwe'
 global.sessionName = 'zenss'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
