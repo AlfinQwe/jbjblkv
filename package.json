@@ -1,5 +1,5 @@
 {
-  "name": "zens",
+  "name": "Mukhammad Alfin Hidayatulloh",
   "version": "1.2.3",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,8 +18,8 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Zens Cuyy.",
-  "license": "MIT",
+  "author": "Mukhammad Alfin Hidayatulloh.",
+  "license": "Mukhammad Alfin Hidayatulloh",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
     "@adiwajshing/keyed-db": "^0.2.4",
